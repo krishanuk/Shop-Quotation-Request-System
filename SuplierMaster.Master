@@ -1,0 +1,51 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="SuplierMaster.master.cs" Inherits="TechFix.SuplierMaster" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="~/Style/main.css" rel="stylesheet" type="text/css" />
+    <style>
+        .logout-btn {
+    background-color: #e74c3c;
+    color: white;
+    border: none;
+    margin-top:5px;
+    margin-right:10px;
+    float:right;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.logout-btn:hover {
+    background-color: #c0392b;
+}
+
+    </style>
+
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="navbar">
+    <a href="SupplierDashboard.aspx" class="active">Home</a>
+    <a href="ManageProduct.aspx">Manage Product</a>
+    <a href="ViewProduct.aspx">View Products</a>
+    <a href="ViewNotification.aspx">Notification</a>
+    <a href="ViewOrdersSupplier.aspx">Orders</a>
+    <a href="ViewApprovedQuotation.aspx">Quotation</a>
+
+<asp:Button ID="btnLogout" runat="server" Text="Logout" CssClass="logout-btn" OnClick="btnLogout_Click" />
+</div>
+
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

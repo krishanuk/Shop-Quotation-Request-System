@@ -1,0 +1,80 @@
+﻿body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+}
+
+/* Styling the quotation panel */
+.quotation-panel {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    margin-top: 40px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Header for the quotations section */
+.quotation-header {
+    font-size: 28px;
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+/* Error message style */
+.error-message {
+    color: #e74c3c;
+    font-size: 14px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+/* Styling the GridView container */
+.grid-container {
+    margin-top: 20px;
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 14px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+
+    /* Table header styling */
+    .grid-container th {
+        background-color: #007bff;
+        color: #fff;
+        padding: 12px;
+        text-align: left;
+    }
+
+    .grid-container td {
+        padding: 12px;
+        border-bottom: 1px solid #ddd;
+    }
+
+    /* Alternating row background color */
+    .grid-container tr:nth-child(even) {
+        background-color: #f9f9f9;
+    }
+
+    /* Hover effect for rows */
+    .grid-container tr:hover {
+        background-color: #f1f1f1;
+    }
+
+/* Responsive design for small screens */
+@media (max-width: 768px) {
+    .quotation-panel {
+        padding: 15px;
+    }
+
+    .grid-container td,
+    .grid-container th {
+        padding: 8px;
+    }
+}

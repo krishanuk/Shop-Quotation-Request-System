@@ -1,0 +1,102 @@
+﻿.quotation-details {
+    margin: 20px auto;
+    width: 80%;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+    /* Quotation Details header styling */
+    .quotation-details h2 {
+        text-align: center;
+        margin-bottom: 20px;
+        font-size: 24px;
+        font-weight: bold;
+        color: #333;
+    }
+
+    /* Error or success message styling */
+    .quotation-details .message {
+        text-align: center;
+        color: #e74c3c;
+        font-size: 16px;
+        margin-bottom: 20px;
+    }
+
+    /* Control button and dropdown alignment */
+    .quotation-details .controls {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+.loading-indicator {
+    text-align: center;
+    margin: 20px;
+    font-size: 18px;
+    color: #007bff;
+    display: none;
+}
+
+/* Subtotal section to emphasize pricing */
+.subtotal-container {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+}
+
+/* Styling for GridView table */
+.quotation-details .gridview {
+    width: 100%;
+    margin: 20px 0;
+    border-collapse: collapse;
+}
+
+    .quotation-details .gridview th {
+        background-color: #007bff;
+        color: white;
+        padding: 12px;
+        text-align: left;
+        font-weight: bold;
+    }
+
+    .quotation-details .gridview td {
+        padding: 10px;
+        border-bottom: 1px solid #ddd;
+    }
+
+    .quotation-details .gridview tr:hover {
+        background-color: #f9f9f9;
+    }
+
+/* Delete button styling */
+.quotation-details .btnDelete {
+    background-color: #e74c3c;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+    .quotation-details .btnDelete:hover {
+        background-color: #c0392b;
+    }
+
+/* Send to approval button */
+.quotation-details .btnSendToApproval {
+    padding: 10px 20px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+    .quotation-details .btnSendToApproval:hover {
+        background-color: #218838;
+    }

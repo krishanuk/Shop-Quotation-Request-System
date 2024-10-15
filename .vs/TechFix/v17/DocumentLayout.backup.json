@@ -1,0 +1,412 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KRISHAN\\source\\repos\\TechFix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{217864BB-4787-4E45-8116-030A7B085BE0}|TechFix.csproj|c:\\users\\krishan\\source\\repos\\techfix\\webform14.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{217864BB-4787-4E45-8116-030A7B085BE0}|TechFix.csproj|solutionrelative:webform14.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{217864BB-4787-4E45-8116-030A7B085BE0}|TechFix.csproj|C:\\Users\\KRISHAN\\source\\repos\\TechFix\\usermanage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{217864BB-4787-4E45-8116-030A7B085BE0}|TechFix.csproj|solutionrelative:usermanage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{217864BB-4787-4E45-8116-030A7B085BE0}|TechFix.csproj|C:\\Users\\KRISHAN\\source\\repos\\TechFix\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{217864BB-4787-4E45-8116-030A7B085BE0}|TechFix.csproj|solutionrelative:login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{217864BB-4787-4E45-8116-030A7B085BE0}|TechFix.csproj|C:\\Users\\KRISHAN\\source\\repos\\TechFix\\viewapprovedquotationstf.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{217864BB-4787-4E45-8116-030A7B085BE0}|TechFix.csproj|solutionrelative:viewapprovedquotationstf.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{217864BB-4787-4E45-8116-030A7B085BE0}|TechFix.csproj|C:\\Users\\KRISHAN\\source\\repos\\TechFix\\viewapprovedquotation.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{217864BB-4787-4E45-8116-030A7B085BE0}|TechFix.csproj|solutionrelative:viewapprovedquotation.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{217864BB-4787-4E45-8116-030A7B085BE0}|TechFix.csproj|C:\\Users\\KRISHAN\\source\\repos\\TechFix\\tfviewproduct.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{217864BB-4787-4E45-8116-030A7B085BE0}|TechFix.csproj|solutionrelative:tfviewproduct.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{217864BB-4787-4E45-8116-030A7B085BE0}|TechFix.csproj|C:\\Users\\KRISHAN\\source\\repos\\TechFix\\techfixdashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{217864BB-4787-4E45-8116-030A7B085BE0}|TechFix.csproj|solutionrelative:techfixdashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{217864BB-4787-4E45-8116-030A7B085BE0}|TechFix.csproj|C:\\Users\\KRISHAN\\source\\repos\\TechFix\\techfixdashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{217864BB-4787-4E45-8116-030A7B085BE0}|TechFix.csproj|solutionrelative:techfixdashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{217864BB-4787-4E45-8116-030A7B085BE0}|TechFix.csproj|C:\\Users\\KRISHAN\\source\\repos\\TechFix\\supplierdashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{217864BB-4787-4E45-8116-030A7B085BE0}|TechFix.csproj|solutionrelative:supplierdashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{217864BB-4787-4E45-8116-030A7B085BE0}|TechFix.csproj|C:\\Users\\KRISHAN\\source\\repos\\TechFix\\supplierdashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{217864BB-4787-4E45-8116-030A7B085BE0}|TechFix.csproj|solutionrelative:supplierdashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{217864BB-4787-4E45-8116-030A7B085BE0}|TechFix.csproj|C:\\Users\\KRISHAN\\source\\repos\\TechFix\\supliermaster.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{217864BB-4787-4E45-8116-030A7B085BE0}|TechFix.csproj|solutionrelative:supliermaster.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{217864BB-4787-4E45-8116-030A7B085BE0}|TechFix.csproj|C:\\Users\\KRISHAN\\source\\repos\\TechFix\\quotationmanagementservice.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{217864BB-4787-4E45-8116-030A7B085BE0}|TechFix.csproj|solutionrelative:quotationmanagementservice.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{217864BB-4787-4E45-8116-030A7B085BE0}|TechFix.csproj|C:\\Users\\KRISHAN\\source\\repos\\TechFix\\quotationapprovalservice.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{217864BB-4787-4E45-8116-030A7B085BE0}|TechFix.csproj|solutionrelative:quotationapprovalservice.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{217864BB-4787-4E45-8116-030A7B085BE0}|TechFix.csproj|C:\\Users\\KRISHAN\\source\\repos\\TechFix\\productmanageservice.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{217864BB-4787-4E45-8116-030A7B085BE0}|TechFix.csproj|solutionrelative:productmanageservice.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{217864BB-4787-4E45-8116-030A7B085BE0}|TechFix.csproj|C:\\Users\\KRISHAN\\source\\repos\\TechFix\\ordermanageservice.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{217864BB-4787-4E45-8116-030A7B085BE0}|TechFix.csproj|solutionrelative:ordermanageservice.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{217864BB-4787-4E45-8116-030A7B085BE0}|TechFix.csproj|C:\\Users\\KRISHAN\\source\\repos\\TechFix\\manageproduct.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{217864BB-4787-4E45-8116-030A7B085BE0}|TechFix.csproj|solutionrelative:manageproduct.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{217864BB-4787-4E45-8116-030A7B085BE0}|TechFix.csproj|C:\\Users\\KRISHAN\\source\\repos\\TechFix\\main.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{217864BB-4787-4E45-8116-030A7B085BE0}|TechFix.csproj|solutionrelative:main.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{217864BB-4787-4E45-8116-030A7B085BE0}|TechFix.csproj|C:\\Users\\KRISHAN\\source\\repos\\TechFix\\addquotation.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{217864BB-4787-4E45-8116-030A7B085BE0}|TechFix.csproj|solutionrelative:addquotation.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{217864BB-4787-4E45-8116-030A7B085BE0}|TechFix.csproj|C:\\Users\\KRISHAN\\source\\repos\\TechFix\\style\\viewquotationrequest.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{217864BB-4787-4E45-8116-030A7B085BE0}|TechFix.csproj|solutionrelative:style\\viewquotationrequest.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2C7A8E-B105-49E2-9DF3-055B38BF2C55}|..\\BusinessLayerTF\\BusinessLayerTF.csproj|c:\\users\\krishan\\source\\repos\\businesslayertf\\quotationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2C7A8E-B105-49E2-9DF3-055B38BF2C55}|..\\BusinessLayerTF\\BusinessLayerTF.csproj|c:\\users\\krishan\\source\\repos\\businesslayertf\\quotationapproval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2C7A8E-B105-49E2-9DF3-055B38BF2C55}|..\\BusinessLayerTF\\BusinessLayerTF.csproj|c:\\users\\krishan\\source\\repos\\businesslayertf\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{217864BB-4787-4E45-8116-030A7B085BE0}|TechFix.csproj|C:\\Users\\KRISHAN\\source\\repos\\TechFix\\main.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{217864BB-4787-4E45-8116-030A7B085BE0}|TechFix.csproj|solutionrelative:main.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{217864BB-4787-4E45-8116-030A7B085BE0}|TechFix.csproj|C:\\Users\\KRISHAN\\source\\repos\\TechFix\\supliermaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{217864BB-4787-4E45-8116-030A7B085BE0}|TechFix.csproj|solutionrelative:supliermaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm14.aspx",
+              "DocumentMoniker": "C:\\Users\\KRISHAN\\source\\repos\\TechFix\\WebForm14.aspx",
+              "RelativeDocumentMoniker": "WebForm14.aspx",
+              "ToolTip": "C:\\Users\\KRISHAN\\source\\repos\\TechFix\\WebForm14.aspx",
+              "RelativeToolTip": "WebForm14.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-09T14:48:01.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViewApprovedQuotationsTF.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\KRISHAN\\source\\repos\\TechFix\\ViewApprovedQuotationsTF.aspx.cs",
+              "RelativeDocumentMoniker": "ViewApprovedQuotationsTF.aspx.cs",
+              "ToolTip": "C:\\Users\\KRISHAN\\source\\repos\\TechFix\\ViewApprovedQuotationsTF.aspx.cs",
+              "RelativeToolTip": "ViewApprovedQuotationsTF.aspx.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAACgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:00:48.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SupplierDashboard.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\KRISHAN\\source\\repos\\TechFix\\SupplierDashboard.aspx.cs",
+              "RelativeDocumentMoniker": "SupplierDashboard.aspx.cs",
+              "ToolTip": "C:\\Users\\KRISHAN\\source\\repos\\TechFix\\SupplierDashboard.aspx.cs",
+              "RelativeToolTip": "SupplierDashboard.aspx.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowC4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:25:50.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\KRISHAN\\source\\repos\\TechFix\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Login.aspx.cs",
+              "ToolTip": "C:\\Users\\KRISHAN\\source\\repos\\TechFix\\Login.aspx.cs",
+              "RelativeToolTip": "Login.aspx.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwDcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:23:44.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserManage.aspx",
+              "DocumentMoniker": "C:\\Users\\KRISHAN\\source\\repos\\TechFix\\UserManage.aspx",
+              "RelativeDocumentMoniker": "UserManage.aspx",
+              "ToolTip": "C:\\Users\\KRISHAN\\source\\repos\\TechFix\\UserManage.aspx",
+              "RelativeToolTip": "UserManage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-06T15:13:50.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ViewApprovedQuotation.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\KRISHAN\\source\\repos\\TechFix\\ViewApprovedQuotation.aspx.cs",
+              "RelativeDocumentMoniker": "ViewApprovedQuotation.aspx.cs",
+              "ToolTip": "C:\\Users\\KRISHAN\\source\\repos\\TechFix\\ViewApprovedQuotation.aspx.cs",
+              "RelativeToolTip": "ViewApprovedQuotation.aspx.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAADEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:09:20.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TFViewProduct.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\KRISHAN\\source\\repos\\TechFix\\TFViewProduct.aspx.cs",
+              "RelativeDocumentMoniker": "TFViewProduct.aspx.cs",
+              "ToolTip": "C:\\Users\\KRISHAN\\source\\repos\\TechFix\\TFViewProduct.aspx.cs",
+              "RelativeToolTip": "TFViewProduct.aspx.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAkwIAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:31:01.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SuplierMaster.Master.cs",
+              "DocumentMoniker": "C:\\Users\\KRISHAN\\source\\repos\\TechFix\\SuplierMaster.Master.cs",
+              "RelativeDocumentMoniker": "SuplierMaster.Master.cs",
+              "ToolTip": "C:\\Users\\KRISHAN\\source\\repos\\TechFix\\SuplierMaster.Master.cs",
+              "RelativeToolTip": "SuplierMaster.Master.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:25:24.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "QuotationApprovalService.asmx.cs",
+              "DocumentMoniker": "C:\\Users\\KRISHAN\\source\\repos\\TechFix\\QuotationApprovalService.asmx.cs",
+              "RelativeDocumentMoniker": "QuotationApprovalService.asmx.cs",
+              "ToolTip": "C:\\Users\\KRISHAN\\source\\repos\\TechFix\\QuotationApprovalService.asmx.cs",
+              "RelativeToolTip": "QuotationApprovalService.asmx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T16:35:29.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TechfixDashBoard.aspx",
+              "DocumentMoniker": "C:\\Users\\KRISHAN\\source\\repos\\TechFix\\TechfixDashBoard.aspx",
+              "RelativeDocumentMoniker": "TechfixDashBoard.aspx",
+              "ToolTip": "C:\\Users\\KRISHAN\\source\\repos\\TechFix\\TechfixDashBoard.aspx",
+              "RelativeToolTip": "TechfixDashBoard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-29T16:31:50.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TechfixDashBoard.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\KRISHAN\\source\\repos\\TechFix\\TechfixDashBoard.aspx.cs",
+              "RelativeDocumentMoniker": "TechfixDashBoard.aspx.cs",
+              "ToolTip": "C:\\Users\\KRISHAN\\source\\repos\\TechFix\\TechfixDashBoard.aspx.cs",
+              "RelativeToolTip": "TechfixDashBoard.aspx.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAACUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T15:49:52.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductManageService.asmx.cs",
+              "DocumentMoniker": "C:\\Users\\KRISHAN\\source\\repos\\TechFix\\ProductManageService.asmx.cs",
+              "RelativeDocumentMoniker": "ProductManageService.asmx.cs",
+              "ToolTip": "C:\\Users\\KRISHAN\\source\\repos\\TechFix\\ProductManageService.asmx.cs",
+              "RelativeToolTip": "ProductManageService.asmx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T16:34:59.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderManageService.asmx.cs",
+              "DocumentMoniker": "C:\\Users\\KRISHAN\\source\\repos\\TechFix\\OrderManageService.asmx.cs",
+              "RelativeDocumentMoniker": "OrderManageService.asmx.cs",
+              "ToolTip": "C:\\Users\\KRISHAN\\source\\repos\\TechFix\\OrderManageService.asmx.cs",
+              "RelativeToolTip": "OrderManageService.asmx.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAgwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T16:34:33.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SupplierDashboard.aspx",
+              "DocumentMoniker": "C:\\Users\\KRISHAN\\source\\repos\\TechFix\\SupplierDashboard.aspx",
+              "RelativeDocumentMoniker": "SupplierDashboard.aspx",
+              "ToolTip": "C:\\Users\\KRISHAN\\source\\repos\\TechFix\\SupplierDashboard.aspx",
+              "RelativeToolTip": "SupplierDashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-29T16:32:35.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ManageProduct.aspx",
+              "DocumentMoniker": "C:\\Users\\KRISHAN\\source\\repos\\TechFix\\ManageProduct.aspx",
+              "RelativeDocumentMoniker": "ManageProduct.aspx",
+              "ToolTip": "C:\\Users\\KRISHAN\\source\\repos\\TechFix\\ManageProduct.aspx",
+              "RelativeToolTip": "ManageProduct.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-29T16:33:36.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "QuotationManagementService.asmx.cs",
+              "DocumentMoniker": "C:\\Users\\KRISHAN\\source\\repos\\TechFix\\QuotationManagementService.asmx.cs",
+              "RelativeDocumentMoniker": "QuotationManagementService.asmx.cs",
+              "ToolTip": "C:\\Users\\KRISHAN\\source\\repos\\TechFix\\QuotationManagementService.asmx.cs",
+              "RelativeToolTip": "QuotationManagementService.asmx.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAkwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T16:13:55.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Main.Master.cs",
+              "DocumentMoniker": "C:\\Users\\KRISHAN\\source\\repos\\TechFix\\Main.Master.cs",
+              "RelativeDocumentMoniker": "Main.Master.cs",
+              "ToolTip": "C:\\Users\\KRISHAN\\source\\repos\\TechFix\\Main.Master.cs",
+              "RelativeToolTip": "Main.Master.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:24:25.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddQuotation.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\KRISHAN\\source\\repos\\TechFix\\AddQuotation.aspx.cs",
+              "RelativeDocumentMoniker": "AddQuotation.aspx.cs",
+              "ToolTip": "C:\\Users\\KRISHAN\\source\\repos\\TechFix\\AddQuotation.aspx.cs",
+              "RelativeToolTip": "AddQuotation.aspx.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAwwJYAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:20:31.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ViewQuotationRequest.css",
+              "DocumentMoniker": "C:\\Users\\KRISHAN\\source\\repos\\TechFix\\Style\\ViewQuotationRequest.css",
+              "RelativeDocumentMoniker": "Style\\ViewQuotationRequest.css",
+              "ToolTip": "C:\\Users\\KRISHAN\\source\\repos\\TechFix\\Style\\ViewQuotationRequest.css",
+              "RelativeToolTip": "Style\\ViewQuotationRequest.css",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-09T14:19:39.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "QuotationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\KRISHAN\\source\\repos\\BusinessLayerTF\\QuotationRequest.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayerTF\\QuotationRequest.cs",
+              "ToolTip": "C:\\Users\\KRISHAN\\source\\repos\\BusinessLayerTF\\QuotationRequest.cs",
+              "RelativeToolTip": "..\\BusinessLayerTF\\QuotationRequest.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAiwFEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:18:41.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "C:\\Users\\KRISHAN\\source\\repos\\BusinessLayerTF\\Orders.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayerTF\\Orders.cs",
+              "ToolTip": "C:\\Users\\KRISHAN\\source\\repos\\BusinessLayerTF\\Orders.cs",
+              "RelativeToolTip": "..\\BusinessLayerTF\\Orders.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T16:22:13.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "QuotationApproval.cs",
+              "DocumentMoniker": "C:\\Users\\KRISHAN\\source\\repos\\BusinessLayerTF\\QuotationApproval.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayerTF\\QuotationApproval.cs",
+              "ToolTip": "C:\\Users\\KRISHAN\\source\\repos\\BusinessLayerTF\\QuotationApproval.cs",
+              "RelativeToolTip": "..\\BusinessLayerTF\\QuotationApproval.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAmwBAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T16:19:53.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Main.Master",
+              "DocumentMoniker": "C:\\Users\\KRISHAN\\source\\repos\\TechFix\\Main.Master",
+              "RelativeDocumentMoniker": "Main.Master",
+              "ToolTip": "C:\\Users\\KRISHAN\\source\\repos\\TechFix\\Main.Master",
+              "RelativeToolTip": "Main.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-29T16:33:09.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SuplierMaster.Master",
+              "DocumentMoniker": "C:\\Users\\KRISHAN\\source\\repos\\TechFix\\SuplierMaster.Master",
+              "RelativeDocumentMoniker": "SuplierMaster.Master",
+              "ToolTip": "C:\\Users\\KRISHAN\\source\\repos\\TechFix\\SuplierMaster.Master",
+              "RelativeToolTip": "SuplierMaster.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-29T16:32:58.321Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

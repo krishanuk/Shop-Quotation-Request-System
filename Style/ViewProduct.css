@@ -1,0 +1,55 @@
+﻿.product-details {
+    margin: 20px auto;
+    width: 80%;
+    padding: 20px;
+    background-color: #f9f9f9; 
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+}
+
+    /* Error message styling */
+    .product-details .error-message {
+        text-align: center;
+        color: #e74c3c; 
+        font-size: 16px;
+        margin-bottom: 20px;
+    }
+
+/* GridView styling */
+.gridview {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0; 
+}
+
+    .gridview th, .gridview td {
+        padding: 12px;
+        text-align: left;
+        border: 1px solid #ddd; 
+    }
+
+    .gridview th {
+        background-color: #007bff; 
+        color: white; 
+        font-weight: bold;
+    }
+
+    .gridview tr:nth-child(even) {
+        background-color: #f2f2f2; 
+    }
+
+    .gridview tr:hover {
+        background-color: #e9ecef; 
+    }
+
+    /* Image styling */
+    .gridview img {
+        border-radius: 5px; 
+    }
+
+/* Responsive styles */
+@media (max-width: 768px) {
+    .product-details {
+        width: 95%; 
+    }
+}

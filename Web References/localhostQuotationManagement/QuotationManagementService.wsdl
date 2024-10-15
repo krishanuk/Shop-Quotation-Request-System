@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:tns="http://tempuri.org/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="AddQuotation">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="requestedByUserID" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="supplierType" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="productID" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="quantity" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="quotedPrice" type="s:decimal" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="AddQuotationResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="AddQuotationResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetQuotationDetailsWithProductNames">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="supplierType" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetQuotationDetailsWithProductNamesResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetQuotationDetailsWithProductNamesResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DeleteQuotation">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="quotationRequestID" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="supplierType" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DeleteQuotationResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="DeleteQuotationResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DeleteAllQuotationsForSupplier">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="supplierType" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DeleteAllQuotationsForSupplierResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="DeleteAllQuotationsForSupplierResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="AddQuotationSoapIn">
+    <wsdl:part name="parameters" element="tns:AddQuotation" />
+  </wsdl:message>
+  <wsdl:message name="AddQuotationSoapOut">
+    <wsdl:part name="parameters" element="tns:AddQuotationResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetQuotationDetailsWithProductNamesSoapIn">
+    <wsdl:part name="parameters" element="tns:GetQuotationDetailsWithProductNames" />
+  </wsdl:message>
+  <wsdl:message name="GetQuotationDetailsWithProductNamesSoapOut">
+    <wsdl:part name="parameters" element="tns:GetQuotationDetailsWithProductNamesResponse" />
+  </wsdl:message>
+  <wsdl:message name="DeleteQuotationSoapIn">
+    <wsdl:part name="parameters" element="tns:DeleteQuotation" />
+  </wsdl:message>
+  <wsdl:message name="DeleteQuotationSoapOut">
+    <wsdl:part name="parameters" element="tns:DeleteQuotationResponse" />
+  </wsdl:message>
+  <wsdl:message name="DeleteAllQuotationsForSupplierSoapIn">
+    <wsdl:part name="parameters" element="tns:DeleteAllQuotationsForSupplier" />
+  </wsdl:message>
+  <wsdl:message name="DeleteAllQuotationsForSupplierSoapOut">
+    <wsdl:part name="parameters" element="tns:DeleteAllQuotationsForSupplierResponse" />
+  </wsdl:message>
+  <wsdl:portType name="QuotationManagementServiceSoap">
+    <wsdl:operation name="AddQuotation">
+      <wsdl:input message="tns:AddQuotationSoapIn" />
+      <wsdl:output message="tns:AddQuotationSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetQuotationDetailsWithProductNames">
+      <wsdl:input message="tns:GetQuotationDetailsWithProductNamesSoapIn" />
+      <wsdl:output message="tns:GetQuotationDetailsWithProductNamesSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="DeleteQuotation">
+      <wsdl:input message="tns:DeleteQuotationSoapIn" />
+      <wsdl:output message="tns:DeleteQuotationSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="DeleteAllQuotationsForSupplier">
+      <wsdl:input message="tns:DeleteAllQuotationsForSupplierSoapIn" />
+      <wsdl:output message="tns:DeleteAllQuotationsForSupplierSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="QuotationManagementServiceSoap" type="tns:QuotationManagementServiceSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="AddQuotation">
+      <soap:operation soapAction="http://tempuri.org/AddQuotation" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetQuotationDetailsWithProductNames">
+      <soap:operation soapAction="http://tempuri.org/GetQuotationDetailsWithProductNames" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteQuotation">
+      <soap:operation soapAction="http://tempuri.org/DeleteQuotation" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteAllQuotationsForSupplier">
+      <soap:operation soapAction="http://tempuri.org/DeleteAllQuotationsForSupplier" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="QuotationManagementServiceSoap12" type="tns:QuotationManagementServiceSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="AddQuotation">
+      <soap12:operation soapAction="http://tempuri.org/AddQuotation" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetQuotationDetailsWithProductNames">
+      <soap12:operation soapAction="http://tempuri.org/GetQuotationDetailsWithProductNames" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteQuotation">
+      <soap12:operation soapAction="http://tempuri.org/DeleteQuotation" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteAllQuotationsForSupplier">
+      <soap12:operation soapAction="http://tempuri.org/DeleteAllQuotationsForSupplier" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="QuotationManagementService">
+    <wsdl:port name="QuotationManagementServiceSoap" binding="tns:QuotationManagementServiceSoap">
+      <soap:address location="https://localhost:44338/QuotationManagementService.asmx" />
+    </wsdl:port>
+    <wsdl:port name="QuotationManagementServiceSoap12" binding="tns:QuotationManagementServiceSoap12">
+      <soap12:address location="https://localhost:44338/QuotationManagementService.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

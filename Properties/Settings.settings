@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TechFix.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="TechFix_localhostUserManageSR_UserManagementService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://localhost:44338/UserManagementService.asmx</Value>
+    </Setting>
+    <Setting Name="TechFix_localhostProductManage_WebService1" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://localhost:44338/ProductManageService.asmx</Value>
+    </Setting>
+    <Setting Name="TechFix_localhostQuotationManagement_QuotationManagementService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://localhost:44338/QuotationManagementService.asmx</Value>
+    </Setting>
+    <Setting Name="TechFix_localhostOrderManage_OrderManageService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://localhost:44338/OrderManageService.asmx</Value>
+    </Setting>
+    <Setting Name="TechFix_localhostOrderManage1_QuotationApprovalService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://localhost:44338/QuotationApprovalService.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
